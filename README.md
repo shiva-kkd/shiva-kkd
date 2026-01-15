@@ -1,35 +1,63 @@
-<h1 align="center">Hi 👋, I'm Shivananda Kkd</h1>
-<h3 align="center">3rd Year CSE Student | Aspiring Intern | Passionate About Tech</h3>
+# Hi 👋, I'm Shivananda Kkd
+
+🎓 **3rd Year Computer Science & Engineering Student**  
+💼 **Aspiring Intern | Passionate About Technology**
 
 ---
 
-🔭 I’m currently exploring:
-- 🔐 Cybersecurity (Ethical Hacking, TryHackMe)
-- 🌐 Web Development (HTML, CSS, JS, React, PHP)
-- 🧠 Data Structures & Algorithms using Java
-
-🎯 My Goal:
-To gain an internship by the end of my 3rd year and grow as a full-time software engineer.
-
-📂 Projects I'm Working On:
-- Online Blood Donation System (HTML/CSS/PHP)
-- Event Management Portal
-- Password Generator Tool
-- More coming soon...
-
-🧰 Tech I’m Comfortable With:
-`Java` | `C++` | `C` | `HTML` | `CSS` | `JavaScript` | `PHP` | `MySQL`
-
-📬 How to reach me:
-- 📧 Email: shivanandakokkada291@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shivananda-kokkada-96813a293)
-- 🌐 Portfolio: Coming soon!
+## 🚀 About Me
+- Motivated CSE student with strong interest in **Cybersecurity**, **Web Development**, and **Problem Solving**.
+- I enjoy building real-world projects and consistently improving my technical skills.
+- Actively preparing for **internship opportunities** and a career in software engineering.
 
 ---
 
-📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiva-kkd&show_icons=true&theme=radical" alt="shiva-kkd stats"/>
-</p>
+## 🔍 Currently Exploring
+- 🔐 **Cybersecurity** (Ethical Hacking, TryHackMe)
+- 🌐 **Web Development** (HTML, CSS, JavaScript, React, PHP)
+- 🧠 **Data Structures & Algorithms using Java**
 
-🌱 *“Learning by building.”*
+---
+
+## 🎯 Career Goal
+To secure an **internship by the end of my 3rd year** and grow into a skilled **full-time software engineer**.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, JavaScript, PHP  
+- **Web:** HTML, CSS, React  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub  
+- **Basics:** CI/CD, DevOps fundamentals  
+
+---
+
+## 📂 Projects I'm Working On
+- 🩸 **Online Blood Donation System** (HTML, CSS, PHP)
+- 📅 **Event Management Portal**
+- 🔐 **Password Generator Tool**
+- 🚧 More projects coming soon...
+
+---
+
+## 🧩 Coding Practice Platforms
+- 🟠 **LeetCode:** https://leetcode.com/u/shiva_kkd/
+- 🟢 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/shivanandak8uau 
+
+---
+
+## 📈 What I'm Learning Now
+- Cybersecurity fundamentals & hands-on labs  
+- Problem-solving using **Java**  
+- Building scalable web applications  
+
+---
+
+## 🤝 Connect With Me
+- **GitHub:** https://github.com/shiva-kkd  
+- **LinkedIn:** https://www.linkedin.com/in/shivananda-kokkada-96813a293/  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me. I'm always open to learning and collaboration!*
