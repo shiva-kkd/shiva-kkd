@@ -55,7 +55,8 @@ I am a motivated **Computer Science & Engineering** student focused on building 
 <a href="https://www.linkedin.com/in/shivananda-kokkada-96813a293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivananda-kokkada" height="30" width="40" /></a>
 <a href="https://github.com/shiva-kkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shiva-kkd" height="30" width="40" /></a>
 <a href="https://portfolio-website-self-theta-83.vercel.app" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="shiva-portfolio" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="shiva-portfolio" height="30" />
+</a>
 </a>
 </p>
 
