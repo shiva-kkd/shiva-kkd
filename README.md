@@ -13,7 +13,7 @@
   <a href="https://github.com/shiva-kkd">
     <img src="https://img.shields.io/badge/GitHub-shiva--kkd-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/shivananda">
+  <a href="[https://www.linkedin.com/in/shivananda](https://www.linkedin.com/in/shivananda-kokkada-96813a293/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:shivanandakokkada291@gmail.com">
@@ -205,7 +205,7 @@ Interested in my education, technical skills, and projects?
   <a href="https://github.com/shiva-kkd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shivananda">
+  <a href="[https://www.linkedin.com/in/shivananda](https://www.linkedin.com/in/shivananda-kokkada-96813a293/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivanandakokkada291@gmail.com">
