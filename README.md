@@ -189,7 +189,7 @@ Interested in my education, technical skills, and projects?
 
 <div align="center">
 
-<a href="./Shivananda_Resume.pdf">
+<a href="https://drive.google.com/file/d/10SPAAhDBIOJxOJBYLFexeYNt8tmS-FXt/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
