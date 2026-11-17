@@ -10,18 +10,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BE+CSE+Student+%40+Sahyadri+College;Full+Stack+Development+Enthusiast;Machine+Learning+%26+AI+Explorer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/shiva-kkd">
+  <!-- <a href="https://github.com/shiva-kkd">
     <img src="https://img.shields.io/badge/GitHub-shiva--kkd-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/shivananda-kokkada-96813a293/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://drive.google.com/file/d/10SPAAhDBIOJxOJBYLFexeYNt8tmS-FXt/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="mailto:shivanandakokkada291@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/10SPAAhDBIOJxOJBYLFexeYNt8tmS-FXt/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20CV-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
+  
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shiva-kkd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
