@@ -19,6 +19,9 @@
   <a href="https://drive.google.com/file/d/10SPAAhDBIOJxOJBYLFexeYNt8tmS-FXt/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20CV-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+  <a href="https://portfolio-website-self-theta-83.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
   <a href="mailto:shivanandakokkada291@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
